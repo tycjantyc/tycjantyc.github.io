@@ -9,3 +9,8 @@ Moim drugiem projektem tym (tym razem grupowym) jest prezentacja o health capsul
 
 [LINK DO PREZENTACJI (ciągle w fazie pracy)](https://docs.google.com/presentation/d/1fipnmH2sgFDSk7NSkCGgP6dxX7Y-u2-DZ63AycYRyB0/edit?usp=sharing)
 
+
+Obrazek koncepcyjny:
+
+![alt text](https://github.com/tycjantyc/tycjantyc.github.io/blob/main/Sharp-HealthCare-1.jpg "HDA")
+
