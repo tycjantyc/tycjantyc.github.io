@@ -14,3 +14,13 @@ Obrazek koncepcyjny:
 
 ![alt text](https://github.com/tycjantyc/tycjantyc.github.io/blob/main/Sharp-HealthCare-1.jpg "HDA")
 
+
+### Projekt CODEBLASTERS
+Projekt powstał w ramach ćwiczeń z przedmiotu narzędzia informatyczne. Celem projektu jest między innymi zapoznanie się z rozproszonymi systemami kontroli wersji poprzez stworzenie gry, ktorej celem jest pozbycie się przeciwników z planszy za pomocą stawiania bomb w strategicznych pozycjach.
+
+Pozostali uczestnicy projektu:
+* [Adrian Jaśkowiec](https://mynameisarko.github.io/)
+* [Jan Tyc](https://tycjantyc.github.io/)
+* [Jakub Wądrzyk](https://shikoqu.github.io/)
+* [Damian Moskała](https://damianm02.github.io/)
+* [Filip Pilarek](https://tigerly1.github.io/)
