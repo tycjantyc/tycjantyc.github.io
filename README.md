@@ -6,6 +6,13 @@ Interesuje się szeroko pojętym Machine Learningiem a w szczególności Compute
 # Obecnie prowadzone projekty:
 ## (kierunek: Inżynieria Biomedyczna)
 
+1. Projekt "Ogórki" - detekcja ogórka gruntowego przy pomocy algorytmu YOLO
+2. Wykrywanie wylewów na bazie Topological Data Analysis (projekt na przedmiot Techniki obrazowania medycznego)
+
+## (kierunek: Informatyka & SI)
+
+1. Aplikacja "Top Beer"
+2. Kompilator składni języka Java do składni języka C++
 
 
 # Projekty zakończone:
