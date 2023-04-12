@@ -1,12 +1,14 @@
-# Kilka słów o mnie...
+# Few words about myself...
 
-Nazywam się Jan Tyc i jestem studentem 3 roku Inżynierii Biomedycznej i 2 roku Informatyki i Systemów Inteligentnych na AGH w Krakowie.
-Interesuje się szeroko pojętym Machine Learningiem a w szczególności Computer Vision oraz zagadnieniami wziązanymi z sieciami neuronowymi.
+My name is Jan Tyc and I am a 3rd year student of Biomedical Engeenering and 2nd year student of Informatics and AI on Univeristy of AGH in Cracow.
+Main intrests of mine include widely meant Machine Learning (specificly Computer Vision, Object Detection and things connected with Neural Networks as all).
+I also take a great intrest in non-science fields. Practicing bouldering is my biggest getaway, I've been doing it for about a year now. 
+With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatorium' which covers technology usage, psychology and much more current urgent topics.
 
-# Obecnie prowadzone projekty:
-## (kierunek: Inżynieria Biomedyczna)
+# Currently hosted project:
+## (field: Biomedical Engeenering)
 
-1. Projekt "Ogórki" - detekcja ogórka gruntowego przy pomocy algorytmu YOLO
+1. Projekct 'Ogórki' (eng. Cucumbers) - My Engineer's Thesis, detection of  algorytmu YOLO
 2. Wykrywanie wylewów na bazie Topological Data Analysis (projekt na przedmiot Techniki obrazowania medycznego)
 
 ## (kierunek: Informatyka & SI)
