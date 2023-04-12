@@ -10,13 +10,16 @@ With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatori
 
 [Link to latest episode](https://open.spotify.com/episode/7erSIiqzIvcJ9TmGO9qXRZ)
 
+![scianka](337182874_6037393079678652_7103961986206195783_n.mp4)
+
+
 # Currently hosted project:
 ## (field: Biomedical Engeenering)
 
 1. Projekct 'Ogórki' (eng. Cucumbers) - My Engineer's Thesis, detection of ridge cucumbers in natural enviorment on the basis of YOLO algorithm
-![ogorki](predictions.png "cos")
+![ogorki](predictions.png "Ogorki")
 2. Classification of hemorphage using Topological Data Analysis combined with CNN (project realised for course 'Medical Imaging')
-![mozg](71_21.jpg "eh")
+![mozg](71_21.jpg "Brain")
 ## (field: Informatics & AI)
 
 1. Aplication "Top Beer"
@@ -29,4 +32,4 @@ Project realised for course 'Health Technology Innovation Generation' about medi
 [LINK TO PRESENTATION](https://docs.google.com/presentation/d/1fipnmH2sgFDSk7NSkCGgP6dxX7Y-u2-DZ63AycYRyB0/edit?usp=sharing)
 
 
-![alt text](https://github.com/tycjantyc/tycjantyc.github.io/blob/main/Sharp-HealthCare-1.jpg "HDA")
+![alt text](Sharp-HealthCare-1.jpg "HDA")
