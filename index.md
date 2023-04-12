@@ -8,7 +8,7 @@ I also take a great intrest in non-science fields. Practicing bouldering is my b
 
 With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatorium' which covers technology usage, psychology and much more current urgent topics.
 
-[Link to latest episode](
+[Link to latest episode](https://open.spotify.com/episode/7erSIiqzIvcJ9TmGO9qXRZ)
 
 # Currently hosted project:
 ## (field: Biomedical Engeenering)
