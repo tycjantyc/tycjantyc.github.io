@@ -14,8 +14,9 @@ With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatori
 ## (field: Biomedical Engeenering)
 
 1. Projekct 'Ogórki' (eng. Cucumbers) - My Engineer's Thesis, detection of ridge cucumbers in natural enviorment on the basis of YOLO algorithm
+![ogorki](predictons.png "cos")
 2. Classification of hemorphage using Topological Data Analysis combined with CNN (project realised for course 'Medical Imaging')
-
+![mozg](72_21.jpg "eh")
 ## (field: Informatics & AI)
 
 1. Aplication "Top Beer"
