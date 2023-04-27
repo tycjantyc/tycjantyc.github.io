@@ -21,6 +21,10 @@ With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatori
 
 [Ogórki repo](https://github.com/tycjantyc/YOLO_ogorki) (still in progress, DM me for more info)
 
+[Raport](YOLO_raport.pdf)
+
+[Presentation](JanTyc_projekt_naukowy.pptx)
+
 ![ogorki](predictions.png "Ogorki")
 
 2. Classification of hemorphage using Topological Data Analysis combined with CNN (project realised for course 'Medical Imaging')
