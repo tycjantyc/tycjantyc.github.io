@@ -10,8 +10,8 @@ With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatori
 
 [Link to latest episode](https://open.spotify.com/episode/7erSIiqzIvcJ9TmGO9qXRZ)
 
-<video src="337182874_6037393079678652_7103961986206195783_n.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/tycjantyc/tycjantyc.github.io/blob/main/337182874_6037393079678652_7103961986206195783_n.mp4
+
 
 
 # Currently hosted project:
@@ -19,10 +19,13 @@ With my friend, Mateusz Piątek, we are hosting a podcast called 'Optymalizatori
 
 1. Projekct 'Ogórki' (eng. Cucumbers) - My Engineer's Thesis, detection of ridge cucumbers in natural enviorment on the basis of YOLO algorithm
 [Ogórki repo](https://github.com/tycjantyc/YOLO_ogorki) (still in progress, DM me for more info)
+
 ![ogorki](predictions.png "Ogorki")
+
 2. Classification of hemorphage using Topological Data Analysis combined with CNN (project realised for course 'Medical Imaging')
 [TDA and CNN](https://github.com/tycjantyc/TDA)
 [DenseNet](https://github.com/tycjantyc/ProjektTOM)
+
 ![mozg](71_21.jpg "Brain")
 ## (field: Informatics & AI)
 
